@@ -1,0 +1,107 @@
+.App {
+  color: var(--text-primary);
+  background-color: var(--background);
+  /* font-size: large; */
+  /* font-weight: bold; */
+  /* padding: 20px; */
+  height: 100vh;
+  transition: all .5s;
+  overflow-y: scroll;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.bg--primary {
+  background-color: var(--background);
+}
+
+.bg--secondary {
+  background-color: var(--background-secondary);
+}
+
+.bg--accent {
+  background-color: var(--accent);
+}
+
+.text--primary {
+  color: var(--text-primary);
+}
+
+.text--secondary {
+  color: var(--text-secondary);
+}
+
+.text--accent {
+  color: var(--accent);
+}
+
+
+.border--primary {
+  color: 2px solid var(--background);
+}
+
+.border--secondary {
+  color: 2px solid var(--background-secondary);
+}
+
+.border--accent {
+  border: 2px solid var(--accent);
+}
+
+
+.bg--white {
+  background-color: #ffffff !important;
+}
+
+.bg--black {
+  background-color: #000000cc !important;
+}
+
+.bg--light {
+  background-color: #fafbfc !important;
+}
+
+.border--light {
+  border: 1px solid #e2e5eb !important;
+}
+
+ 
+.bg--extra {
+  background-color: #454545 !important;
+}
+
+
+.bg--translucent {
+  background-color: #ffffff;
+  opacity: 0.5;
+  /* box-shadow: 50px #000000a8; */
+}
+
+
+/* .text--secondary {
+  color: #8494a4 !important;
+} */
+
+
+.text--body {
+  color: #000000cc !important;
+}
+
+.text--white {
+  color: white !important;
+}
+
+.text--red {
+  color: #e52323 !important;
+}
+
+.text--green {
+  color: #01a214 !important;
+}
+
+.text--shadow {
+  text-shadow: -2px 0px 4px black;
+}
