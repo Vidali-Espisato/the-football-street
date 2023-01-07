@@ -1,0 +1,61 @@
+.custom-card {
+    /* min-height: 500px !important; */
+    height: 400px !important;
+    object-fit: contain !important;
+    overflow: hidden !important;
+}
+
+.custom-card-title {
+    max-height: 5px;
+}
+
+.custom-card-image {
+    height: 200px;
+    width: 400px;
+}
+
+.ad-space1 {
+    height: 100px;
+    width: 95%;
+}
+
+.ad-space3 {
+    height: 500px;
+}
+
+.cc {
+    height: 550px;
+    object-fit: cover !important;
+    object-position: 50% 0% !important;
+    opacity: 0.5;
+}
+
+.img-container{
+    height: 85px;
+    width: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.leagueImg {
+    max-height: 70px;
+    max-width: 70px;
+}
+
+.spinner-border {
+    font-weight: bold;
+}
+
+.ccc {
+    height: 550px !important;
+}
+
+.ccd {
+    object-fit: cover !important;
+    object-position: 50% 0% !important;
+    /* opacity: 0.8; */
+    text-overflow:clip;
+    overflow: hidden;
+}
