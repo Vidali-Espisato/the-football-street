@@ -1,0 +1,40 @@
+.dark-toggle {
+    position: relative;
+    /* right: 50px;
+    top: 20px; */
+}
+
+.toggle-button {
+  width: 55px;
+  height: 30px;
+  border: 2px solid var(--accent);
+  transition: .3s ease-out;
+  cursor: pointer;
+}
+
+
+.toggle-button-sm {
+  width: 40px;
+  height: 25px;
+  border: 2px solid var(--accent);
+  transition: .3s ease-out;
+  cursor: pointer;
+}
+
+.toggle-circle {
+    padding: 4px;
+    border: 1px solid white;
+}
+
+.toggle-circle-sm {
+    padding: 3px;
+    border: 1px solid white;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.zz {
+  z-index: 10;
+}
